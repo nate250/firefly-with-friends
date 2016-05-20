@@ -1,0 +1,21 @@
+{
+  "name": "firefly-with-friends",
+  "version": "0.0.0",
+  "authors": [
+    "Nate Wagar <nate.wagar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
